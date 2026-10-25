@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo">#FFFFF5F3</color>
+    <color name="superficie">#FFFFFFFF</color>
+    <color name="cabecera">#FFB08060</color>
+    <color name="texto_principal">#FF000000</color>
+    <color name="borde_campo">#FF000000</color>
+    <color name="boton_fondo">#FFFFE8A3</color>
+    <color name="enlace">#FF0088FF</color>
+</resources>

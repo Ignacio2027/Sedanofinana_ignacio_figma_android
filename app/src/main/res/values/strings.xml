@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">t-children</string>
+    <string name="titulo_cabecera">Inicia sesión</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="sin_cuenta">¿No tienes cuenta aún?</string>
+    <string name="enlace_registro">Pincha aquí</string>
+    <string name="btn_iniciar_sesion">Iniciar sesión</string>
+</resources>

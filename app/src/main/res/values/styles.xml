@@ -1,0 +1,38 @@
+<resources>
+    <style name="TextoTitulo">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:lineHeight">34sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/texto_principal</item>
+    </style>
+
+    <style name="TextoCampo">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="android:textColor">@color/texto_principal</item>
+    </style>
+
+    <style name="TextoPequeno">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:textColor">@color/texto_principal</item>
+    </style>
+
+    <style name="TextoEnlace">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:textColor">@color/enlace</item>
+    </style>
+
+    <style name="TextoBoton">
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/texto_principal</item>
+    </style>
+</resources>
